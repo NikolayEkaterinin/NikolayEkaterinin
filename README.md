@@ -1,4 +1,4 @@
-### Hey, This is Nikolay
+### **Hey, This is Nikolay**
 
 <!--
 **NikolayEkaterinin/NikolayEkaterinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
