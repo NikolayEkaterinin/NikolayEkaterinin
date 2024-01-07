@@ -1,17 +1,16 @@
 ### **Hey, This is Nikolay**
 
 I'm Python Backend Developer
-<!--
-**NikolayEkaterinin/NikolayEkaterinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ![Python](https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white): Опыт разработки на Python, включая создание приложений и решение различных задач.
+  
+- ![Django](https://img.shields.io/badge/-Django-darkgreen?logo=django&logoColor=white): Знание фреймворка Django для веб-разработки. Опыт создания веб-приложений с использованием Django.
+
+- ![GIT](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white): Уверенное владение системой контроля версий Git, включая работу с ветками, слияниями и управление репозиториями.
+
+- ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white): Опыт использования Docker для контейнеризации приложений, упрощения развертывания и управления окружениями.
+
+- ![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-green?logo=django&logoColor=white): Знание и опыт использования Django REST Framework для создания RESTful API в приложениях на Django.
+
