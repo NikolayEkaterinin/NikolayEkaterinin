@@ -1,8 +1,8 @@
 ### **Hey, This is Nikolay**
 
-I'm Python Backend Developer
+### :computer: I'm Python Backend Developer
 
-## My Skills
+### My Skills
 
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-darkgreen?logo=django&logoColor=white)
