@@ -12,4 +12,5 @@
 ![HTML](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/-Unit_Testing-brightgreen?logo=junit&logoColor=white)
+![Python Testing](https://img.shields.io/badge/-Python_Testing-blue?logo=pytest&logoColor=white)
 
