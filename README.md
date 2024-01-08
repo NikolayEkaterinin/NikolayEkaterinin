@@ -11,5 +11,5 @@
 ![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-green?logo=django&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
-![Unit Testing](https://img.shields.io/badge/-Unit_Testing-brightgreen)
+![Unit Testing](https://img.shields.io/badge/-Unit_Testing-brightgreen?logo=junit&logoColor=white)
 
